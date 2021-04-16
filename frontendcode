@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> BREAK THE WORD HUNGER</title>
+</head>
+<body>
+                          <h1>BREAK THE WORD HUNGER<h1><img src="https://images.indianexpress.com/2017/10/food-security-hunger.jpg" width="200px;"><br>
+<h1> LOGIN PAGE</h1>
+<hr>
+    <form class="register-form">
+      <input type="text" name="username" placeholder="name"/><br>
+      <input type="password" placeholder="password"/><br>
+      <input type="text" placeholder="email address"/>
+      <button>create</button>
+      <p class="message">Already registered? <a href="#">Sign In</a></p>
+    </form>
+    <form class="login-form">
+      <input type="text" placeholder="username"/>
+      <input type="password" placeholder="password"/>
+      <button>login</button>
+      <p class="message">Not registered? <a href="#">Create an account</a></p>
+    </form>
+<h2>If you can't feed a hundred people, then feed just one...<br>Serve Poor Serve Needy</h2>
+     <img src="http://3.bp.blogspot.com/-OW0U1pguWYo/Tu7gBHR5HJI/AAAAAAAAAUk/HtyBxKtyPno/s1600/mother-teresa.jpg">
+<h3>India and starvation have been going hand in hand for a very long time.<br>It is so because the people living below the poverty line in India are very high.<br> Moreover, starvation is a cause of so many deaths every year that it needs to be stopped.</h3>
+<hr>
+<h4>On be half of that we have initiated to start up the foundation which should stop atleast some of the hunger deaths in india.
+<hr>
+<h5>FOR MORE INFORMATION</h5>
+<h2>contact us:00000</h2>
+<h2>Email us:xxxxxx@gmail.com</h2>
+<hr>
+</body>
+</html>
